@@ -1,0 +1,6 @@
+#ifndef HALIDE_PYTHON_BINDINGS_RDOM_H
+#define HALIDE_PYTHON_BINDINGS_RDOM_H
+
+void define_rdom();
+
+#endif  // HALIDE_PYTHON_BINDINGS_RDOM_H
